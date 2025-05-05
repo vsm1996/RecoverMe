@@ -3,7 +3,7 @@
   "outputDirectory": "dist/client/public",
   "framework": "vite",
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
+    { "source": "/api/(.*)", "destination": "/dist/index.js" }
   ],
   "functions": {
     "dist/index.js": {
