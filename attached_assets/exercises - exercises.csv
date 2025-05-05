@@ -1,0 +1,20 @@
+name,description,category,equipmentRequired,targetArea1,targetArea 2,difficultyLevel,instructions,Instructions
+Glute Bridge,Strengthens glutes and core stability,strength,none,glutes,lower_back,beginner,"Lie on back, knees bent",Engage glutes and lift hips
+Bird Dog,Improves core and balance,strength,none,core,lower_back,beginner,Start on all fours,Extend opposite arm and leg
+Seated Forward Fold,Stretches hamstrings and lower back,mobility,none,hamstrings,lower_back,beginner,Sit with legs extended,"Hinge at hips, reach for toes"
+Wall Angels,Improves shoulder mobility and posture,mobility,none,shoulders,upper_back,beginner,"Stand against wall, arms at 90°",Raise and lower arms slowly
+Foam Roll Thoracic Spine,Relieves tension in upper back,recovery,foam_roller,upper_back,spine,beginner,Lie on back with foam roller under mid-back,Roll slowly
+Pallof Press,Core anti-rotation exercise,strength,resistance_band,core,obliques,intermediate,Anchor band at chest height,Hold band in front
+90/90 Hip Stretch,Improves hip rotation,mobility,none,hips,glutes,beginner,Sit with one leg in front bent at 90°,"Keep back straight, switch knees from side to side"
+Foam Roll Calves,Reduces calf tightness,recovery,foam_roller,calves,soleus,beginner,Sit with legs extended,Place foam roller under calves and roll up and down the leg
+Face Pulls,Strengthens rear delts and posture muscles,strength,resistance_band,rear_delts,upper_back,intermediate,Anchor band at head height,Hold band with both hands and pull towards face
+World's Greatest Stretch,Full-body dynamic mobility drill,mobility,none,hips,spine,intermediate,Start in a lunge,Place same-side hand on the ground
+Thread the Needle,Thoracic spine mobility and shoulder stretch,mobility,none,spine,shoulders,beginner,Start on hands and knees,Reach one arm under opposite armpit
+Cossack Squat,Improves hip and ankle mobility,mobility,none,hips,adductors,intermediate,Stand wide,"Shift weight to one side, keeping other leg straight"
+Deep Squat Hold,"Enhances hip, knee, and ankle flexibility",mobility,none,hips,ankles,beginner,Stand with feet shoulder-width apart,Squat as deep as possible
+Shoulder CARs,Controlled rotations to improve shoulder mobility,mobility,none,shoulders,rotator_cuff,intermediate,Stand tall,Raise arm forward and overhead
+Standing Hip CARs,Improves hip joint control and mobility,mobility,none,hips,glutes,intermediate,Stand on one leg,Lift knee towards chest
+Downward Dog,Stretches posterior chain and improves flexibility,mobility,none,hamstrings,shoulders,beginner,Start in plank position,Lift hips towards ceiling
+Kneeling Hip Flexor Stretch,Improves hip flexor and quad mobility,mobility,none,hip_flexors,quads,beginner,"Kneel on one knee, other foot forward",Tuck pelvis under
+Wrist Extensions Stretch,Enhances wrist flexibility and reduces stiffness,mobility,none,wrists,forearms,beginner,"Extend arm in front, palm facing up",Use other hand to gently pull fingers back
+Lying T-Spine Windmill,Improves thoracic spine and shoulder mobility,mobility,none,spine,shoulders,intermediate,"Lie on side, arms extended forward",Rotate top arm across body
