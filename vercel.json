@@ -3,10 +3,10 @@
   "outputDirectory": "dist/client/public",
   "framework": "vite",
   "rewrites": [
-    { "source": "/dist/(.*)", "destination": "/dist/index.js" }
+    { "source": "/(.*)", "destination": "/api" }
   ],
   "functions": {
-    "dist/index.js": {
+    "api/**/*.js": {
       "memory": 1024,
       "maxDuration": 10
     }
